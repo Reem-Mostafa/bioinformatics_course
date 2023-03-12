@@ -1,2 +1,2 @@
 # bioinformatics_course
-'![a_new_pic](https://us.vcdn.net/5019796/uploads/FileUpload/eb/44f317f8850ba74b64ba47b02d1bae.png)' >> ${your_name}/README.md
+![a_new_pic](https://us.vcdn.net/5019796/uploads/FileUpload/eb/44f317f8850ba74b64ba47b02d1bae.png)
